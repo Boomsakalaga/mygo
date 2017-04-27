@@ -1,3 +1,3 @@
 # mygo
-This is  my study  golang!/n
+This is  my study  golang!
 test os package for golang
